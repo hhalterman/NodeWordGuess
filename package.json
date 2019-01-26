@@ -1,22 +1,22 @@
 {
   "name": "Constructor-Word-Guess",
   "version": "1.0.0",
-  "description": "* **Game Information**: This is a node.js based application with interactive prompts on the command-line. Test your knowledge of the 54 African Countries. Good luck and enjoy the game!",
+  "description": "* **Game Information**: This is a node.js based application with interactive prompts on the command-line. Test your knowledge of dog breeds. Good luck and enjoy the game!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmk6562/Constructor-Word-Guess.git"
+    "url": "git+https://github.com/hhalterman/NodeWordGuess.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmk6562/Constructor-Word-Guess/issues"
+    "url": "https://github.com/hhalterman/NodeWordGuessissues"
   },
-  "homepage": "https://github.com/dmk6562/Constructor-Word-Guess#readme",
+  "homepage": "https://github.com/hhalterman/NodeWordGuess#readme",
   "dependencies": {
     "inquirer": "^5.2.0",
     "is-letter": "^1.1.1"
