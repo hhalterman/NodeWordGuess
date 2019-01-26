@@ -24,4 +24,5 @@ function Word(answer) {
     }
 }
 
+
 module.exports = Word;
